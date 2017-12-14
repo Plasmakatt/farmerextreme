@@ -1,0 +1,2 @@
+# Exclude swp files created by vim
+*.swp
